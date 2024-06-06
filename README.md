@@ -1,5 +1,5 @@
 # RESTAPI-Go-Gin-Framework
-Simple API with Go-Gin Framework illustration the following Http methods:
+Simple API using Go-Gin Framework with the following Http methods:
 
 - GET
 - GET based on ID
